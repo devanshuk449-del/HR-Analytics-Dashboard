@@ -56,5 +56,32 @@ Example fields:
 - Education fields **Life Sciences (38%)** and **Medical (27%)** dominate attrition share
 
 ---
+## 🎯 Interactive Features
+
+One of the most powerful aspects of this dashboard is its **dynamic interactivity**:
+
+- **Department Tabs (HR | Sales | Research & Development):**  
+  Switching between departments instantly updates all KPIs and visuals, giving a tailored view of attrition trends for each function.
+
+- **Cross-Filtering:**  
+  Selecting a category (e.g., attrition by age group) automatically filters other charts, enabling deeper drill-down analysis.
+
+- **Drill-Through Analysis:**  
+  Users can move from high-level metrics (overall attrition rate) down to specific job roles, salary slabs, or tenure distributions.
+
+- **Dynamic Segmentation:**  
+  The dashboard adapts in real time to user selections, making it a **self-service analytics tool** for HR managers and decision-makers.
+
+---
+
+## 💡 Why It Matters
+This interactivity transforms the dashboard from a static report into a **business intelligence solution**:
+- HR leaders can quickly identify attrition hotspots by department.
+- Sales managers can explore turnover patterns in their teams.
+- R&D heads can analyze retention challenges in technical roles.
+- Recruiters and analysts can use it as a **decision-support tool** rather than just a visualization.
+
+---
+
 
 
